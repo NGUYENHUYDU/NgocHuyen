@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="977bf76b-12a4-479a-a978-7bfbc64d43d3" name="Changes" comment="" />
+    <list default="true" id="977bf76b-12a4-479a-a978-7bfbc64d43d3" name="Changes" comment="all" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +43,7 @@
       <updated>1675000278579</updated>
       <workItem from="1675000279937" duration="2745000" />
       <workItem from="1675003589034" duration="961000" />
-      <workItem from="1675054274612" duration="1097000" />
+      <workItem from="1675054274612" duration="1947000" />
     </task>
     <servers />
   </component>
@@ -63,5 +63,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="all" />
+    <option name="LAST_COMMIT_MESSAGE" value="all" />
   </component>
 </project>
